@@ -2,7 +2,7 @@
 
 
 <!-- Profile Picture + Name -->
-<h1 align="center">Hi 👋, I'm Farhad/h1>
+<h1 align="center">Hi 👋, I'm Farhad /h1>
 <h3 align="center">Frontend Developer | MERN Stack Learner</h3>
 
 ---
