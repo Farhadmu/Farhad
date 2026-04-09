@@ -47,13 +47,11 @@ Currently improving my skills and exploring new technologies.
 </p>
 ---
 
-## 📌 Pinned Projects
-
-### 🌍 Tourism Website
-- 🔗 Live: https://your-live-link.com  
-- 💻 Tech: React, Tailwind CSS, Node.js  
-- 📖 A modern tourism website with booking features  
-
+📌 Pinned Projects
+🧠 Second Brain Landing Page
+🔗 Live: https://farhadmu.github.io/KV_Knowledge_Vault/
+💻 Tech: HTML, Tailwind CSS, DaisyUI
+📖 A modern and responsive landing page based on a Figma design, featuring clean UI, structured sections, and interactive elements
 ---
 
 ### 🛒 E-commerce Website
