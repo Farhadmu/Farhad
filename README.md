@@ -35,7 +35,7 @@ Currently improving my skills and exploring new technologies.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href=(https://www.linkedin.com/in/md-farhadul-islam-025438373/)>LinkedIn</a> |
+  <a href=https://www.linkedin.com/in/md-farhadul-islam-025438373/>LinkedIn</a> |
 </p>
 
 ---
