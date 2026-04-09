@@ -39,14 +39,12 @@ Currently improving my skills and exploring new technologies.
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhadmu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhadmu&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📌 Pinned Projects
