@@ -55,14 +55,14 @@ Currently improving my skills and exploring new technologies.
 
 ---
 
-### 📘 JavaScript Concepts Guide
+### 📘 GitHub Issues Tracker
 - 🔗 Live: https://farhadmu.github.io/B-13-assignment-5/login.html
 - 💻 Tech: JavaScript (ES6), HTML  
 - 📖 A beginner-friendly guide covering core JavaScript concepts like var, let, const, spread operator, and more  
 
 ---
 
-### ⚡ JavaScript DOM & Events Guide
+### ⚡ Job Application Tracker
 - 🔗 Live: https://farhadmu.github.io/B-13-assignment.A-4/
 - 💻 Tech: JavaScript (DOM), HTML  
 - 📖 A practical guide explaining DOM manipulation and event handling concepts like selectors, bubbling, and delegation  
