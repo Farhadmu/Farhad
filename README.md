@@ -46,22 +46,23 @@ Currently improving my skills and exploring new technologies.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhadmu&theme=tokyonight" />
 </p>
 ---
+## 📌 Pinned Projects
 
-📌 Pinned Projects
-🧠 Second Brain Landing Page
-🔗 Live: https://farhadmu.github.io/KV_Knowledge_Vault/
-💻 Tech: HTML, Tailwind CSS, DaisyUI
-📖 A modern and responsive landing page based on a Figma design, featuring clean UI, structured sections, and interactive elements
----
-
-### 🛒 E-commerce Website
-- 🔗 Live: https://your-live-link.com  
-- 💻 Tech: MERN Stack  
-- 📖 Full-featured online shopping platform  
+### 🧠 Second Brain Landing Page
+- 🔗 Live: https://farhadmu.github.io/KV_Knowledge_Vault/
+- 💻 Tech: HTML, Tailwind CSS, DaisyUI  
+- 📖 A modern and responsive landing page based on a Figma design with multiple structured sections and clean UI  
 
 ---
 
-### 🎮 Gaming Platform
-- 🔗 Live: https://your-live-link.com  
-- 💻 Tech: JavaScript, API  
-- 📖 Game listing and review system  
+### 📘 JavaScript Concepts Guide
+- 🔗 Live: https://farhadmu.github.io/B-13-assignment-5/login.html
+- 💻 Tech: JavaScript (ES6), HTML  
+- 📖 A beginner-friendly guide covering core JavaScript concepts like var, let, const, spread operator, and more  
+
+---
+
+### ⚡ JavaScript DOM & Events Guide
+- 🔗 Live: https://farhadmu.github.io/B-13-assignment.A-4/
+- 💻 Tech: JavaScript (DOM), HTML  
+- 📖 A practical guide explaining DOM manipulation and event handling concepts like selectors, bubbling, and delegation  
