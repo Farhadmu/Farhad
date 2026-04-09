@@ -8,8 +8,8 @@
 ---
 
 ## 📍 Location & Contact
-- 🌍 Location: Kaliganj, Dhaka, Bangladesh  
-- 📧 Email: yourmail@gmail.com  
+- 🌍 Location: Comilla, Bangladesh  
+- 📧 Email: mi0223937@gmail.com
 
 ---
 
@@ -35,9 +35,8 @@ Currently improving my skills and exploring new technologies.
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
-  <a href="https://tiktok.com/@yourprofile">TikTok</a> |
-  <a href="https://snapchat.com/add/yourprofile">Snapchat</a>
+  <a https://www.linkedin.com/in/md-farhadul-islam-025438373/>LinkedIn</a> |
+  
 </p>
 
 ---
