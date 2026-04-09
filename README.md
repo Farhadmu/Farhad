@@ -1,9 +1,6 @@
 <!-- Banner Image --><img width="1259" height="585" alt="Screenshot_20260409_192715" src="https://github.com/user-attachments/assets/17559de4-d152-41d0-bba2-adacb320ae4b" />
 ![Uploading Screenshot_20260409_192715.png…]()
 
-<p align="center">
-  <img src="https://your-banner-link.com" alt="banner" width="100%" />
-</p>
 
 <!-- Profile Picture + Name -->
 <h1 align="center">Hi 👋, I'm Fahim</h1>
