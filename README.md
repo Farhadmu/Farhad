@@ -21,6 +21,9 @@ Currently improving my skills and exploring new technologies.
 -  I’m working on a **Tourism Website**
 -  Learning **Advanced JavaScript & React**
 -  Goal: Become a Full Stack Developer
+-  Practicing **Competitive Programming (CP)** using **C++**  
+-  Currently using **Garuda Linux** as my primary OS
+-  Strengthening my knowledge in **Advanced JavaScript, React, and DSA**
 
 ---
 
