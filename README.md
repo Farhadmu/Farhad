@@ -43,7 +43,7 @@ Currently improving my skills and exploring new technologies.
 - Computational Thinking
 - Time & Space Complexity Analysis
 
-### 🖥️ Operating Systems & Environment
+###  Operating Systems & Environment
 - Comfortable with installing and using Windows OS
 - Comfortable with installing and using Linux distributions
 - Currently using **Garuda Linux** as primary development environment
