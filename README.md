@@ -17,7 +17,7 @@ I am a passionate web developer who loves building modern and user-friendly webs
 Currently improving my skills and exploring new technologies.
 
 -  I’m exploring **Next.js**
--  I’m working on a **Tourism Website**
+-  I’m working on a **Frontend website**
 -  Learning **Advanced JavaScript & React**
 -  Goal: Become a Full Stack Developer
 -  Practicing **Competitive Programming (CP)** using **C++**  
