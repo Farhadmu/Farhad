@@ -27,9 +27,28 @@ Currently improving my skills and exploring new technologies.
 ##  Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode,c,cpp,linux,windows" />
 </p>
----
+
+###  Core Knowledge
+- Data Structures & Algorithms (DSA)
+- Problem Solving & Logical Thinking
+- Object-Oriented Programming (OOP)
+- Structured Programming language(spl)
+- 
+
+### Mathematical Foundations
+- Discrete Mathematics (Logic, Set Theory, Graph Theory)
+- Basic Probability & Statistics
+- Computational Thinking
+- Time & Space Complexity Analysis
+
+### 🖥️ Operating Systems & Environment
+- Comfortable with installing and using Windows OS
+- Comfortable with installing and using Linux distributions
+- Currently using **Garuda Linux** as primary development environment
+- Basic terminal and package management (Pacman, APT)
+- Operating System Basics (Process, Memory, File System)
 
 ##  Connect with Me
 
