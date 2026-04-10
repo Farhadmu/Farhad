@@ -1,8 +1,7 @@
-<!-- Banner Image --><img width="1259" height="585" alt="Screenshot_20260409_192715" src="https://github.com/user-attachments/assets/17559de4-d152-41d0-bba2-adacb320ae4b" />
 
+<!-- Profile Picture + Name --><img width="1584" height="396" alt="ok" src="https://github.com/user-attachments/assets/c7476c5d-a990-4601-8d60-f136a553ceb0" />
 
-<!-- Profile Picture + Name -->
-<h1 align="center">Hi , I'm Farhad
+<h1 align="center">Hello , I'm Farhad
 <h3 align="center">Frontend Developer | MERN Stack Learner</h3>
 
 ---
@@ -86,4 +85,70 @@ Currently improving my skills and exploring new technologies.
 ###  Job Application Tracker
 -  Live: https://farhadmu.github.io/B-13-assignment.A-4/
 -  Tech: JavaScript (DOM), HTML  
--  A practical guide explaining DOM manipulation and event handling concepts like selectors, bubbling, and delegation  
+-  A practical guide explaining DOM manipulation and event handling concepts like selectors, bubbling, and delegation
+
+
+
+
+
+#  Readme:
+#  Product Cart System
+
+A modern and responsive Product Cart System built with React. This application allows users to browse products, add them to a cart, remove items, and proceed to checkout with real-time updates and notifications.
+
+---
+
+<img width="1856" height="892" alt="Capture" src="https://github.com/user-attachments/assets/59fa3595-fe57-40c5-8806-1538f8b7f513" />
+
+---
+
+##  Project Overview
+
+This project is an interactive e-commerce cart system where users can explore products, manage their cart, and experience a smooth and dynamic user interface. It is designed based on a Figma layout and focuses on usability and responsiveness.
+
+---
+
+#  Technologies Used
+
+-  React.js  
+-  Tailwind CSS  
+-  DaisyUI  
+-  JavaScript (ES6+)  
+-  React-Toastify  
+-  JSON (Product Data)
+
+---
+
+##  Key Features
+
+-  Product listing with responsive 3-column layout  
+-  Add to cart with real-time cart count update  
+-  Remove items from cart functionality  
+-  Toast notifications for add, remove, and checkout actions  
+-  Total price calculation in the cart  
+-  Toggle between Product and Cart sections  
+-  “Proceed to Checkout” clears the cart  
+-  Fully responsive across all devices  
+
+---
+
+
+# Localhost run procces
+
+-  Clone the repository-
+git clone https://github.com/Farhadmu/DIgiTools-
+
+-  Go to project folder-
+cd DIgiTools-
+
+-  Install dependencies-
+npm install
+
+-  Run the project-
+npm run dev
+---
+
+### Live & Repository Links:
+-Live Site Link: https://marvelous-nougat-5c5bf6.netlify.app/
+
+-GitHub Repository: https://github.com/Farhadmu/DIgiTools-
